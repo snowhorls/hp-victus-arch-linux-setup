@@ -25,5 +25,5 @@ systemctl disable nvidia-resume.service
 ```
 # File locations
 dwmblocks-async looks for the scripts in **~/.local/bin** 
-
+<br>
 the source directory is meant to go in **~/.local** but can go wherever
