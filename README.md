@@ -16,3 +16,10 @@ in **/etc/default/grub** or **/etc/modprobe.d** which solves the issue thanks to
 
 - https://www.reddit.com/r/hyprland/comments/1cyb0h7/hibernate_on_nvidia/
 - https://wiki.archlinux.org/title/NVIDIA/Tips_and_tricks#Preserve_video_memory_after_suspend
+
+you can also just disable sleeping using nvidia
+```
+systemctl disable nvidia-suspend.service
+systemctl disable nvidia-hibernate.service
+systemctl disable nvidia-resume.service
+```
