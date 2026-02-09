@@ -27,3 +27,6 @@ systemctl disable nvidia-resume.service
 dwmblocks-async looks for the scripts in **~/.local/bar** and
 <br>
 the source directory is also meant to go in **~/.local/** but can go anywhere
+
+# auto script/untested
+run setup.sh automate this process
