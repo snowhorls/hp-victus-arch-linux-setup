@@ -6,9 +6,10 @@ pacman -S --needed - < pkglist.txt
 installs all the packages <br>
 - https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Install_packages_from_a_list
 
-# setup for Hp-Victus
+# Setup for Hp-Victus
 
-# Nvidia problems with sleeping
+* Nvidia problems with sleeping
+
 Nvidia has issues with laptop sleeping on some models which can be fixed with putting the following <br>
 ```
 options nvidia NVreg_PreserveVideoMemoryAllocations=1
