@@ -6,7 +6,7 @@ pacman -S --needed - < pkglist.txt
 installs all the packages <br>
 - https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Install_packages_from_a_list
 
-# Setup for Hp-Victus
+## Setup for Hp-Victus
 
 * Nvidia problems with sleeping
 
@@ -26,10 +26,10 @@ systemctl disable nvidia-suspend.service
 systemctl disable nvidia-hibernate.service
 systemctl disable nvidia-resume.service
 ```
-# File locations
+## File locations
 dwmblocks-async looks for the scripts in **~/.local/bar** and
 <br>
 the source directory is also meant to go in **~/.local/** but can go anywhere
 
-# auto script/untested
+## auto script/untested
 run setup.sh automate this process
