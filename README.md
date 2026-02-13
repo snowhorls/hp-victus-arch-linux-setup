@@ -7,17 +7,17 @@ installs all the packages <br>
 - https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Install_packages_from_a_list
 
 # Suckless Software
-all the suckless software is prepatched and preconfigured and has to be made using
-```
-sudo make install
-```
+all the suckless software is prepatched and preconfigured as minimally as posible with no uneccisary bloat
 
 ## patch list
 
 | # dwm | # st | # dmenu |
 | --- | --- | --- |
 | fillgaps | alpha | center |
-| statuscmd | scrollback
+| statuscmd | scrollback |
+
+suckless site
+- https://suckless.org
 
 # Setup for Hp-Victus
 
