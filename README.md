@@ -24,7 +24,7 @@ dwmblocks-async looks for the scripts in **~/.local/bar** and
 the source directory is also meant to go in **~/.local/** but can go anywhere
 
 ## auto script/untested
-run setup.sh automate this process
+run setup.sh automates this process but is untested currently
 
 # Setup for Hp-Victus Laptop
 
