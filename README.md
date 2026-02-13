@@ -5,6 +5,7 @@ uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 ```
 #
 <br>
+
 ```
 pacman -S --needed - < pkglist.txt
 ``` 
