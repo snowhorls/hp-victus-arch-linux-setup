@@ -5,11 +5,6 @@ uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 ```
 
 ```
-[multilib]
-Include = /etc/pacman.d/mirrorlist
-```
-
-```
 pacman -S --needed - < pkglist.txt
 ``` 
 installs all the packages <br>
