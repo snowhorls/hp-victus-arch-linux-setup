@@ -42,8 +42,8 @@ options nvidia NVreg_TemporaryFilePath=/var/tmp
 ```
 in **/etc/default/grub** or **/etc/modprobe.d** which solves the issue thanks to a smart guy on reddit i found
 
-- < https://www.reddit.com/r/hyprland/comments/1cyb0h7/hibernate_on_nvidia/ >
-- [nvidia-preserve-video-memmory-after-suspend](https://wiki.archlinux.org/title/NVIDIA/Tips_and_tricks#Preserve_video_memory_after_suspend)
+- [Hybernate-on-Nvidia-reddit](https://www.reddit.com/r/hyprland/comments/1cyb0h7/hibernate_on_nvidia/)
+- [Nvidia-Preserve-Video-Memmory-After-Suspend-archwiki](https://wiki.archlinux.org/title/NVIDIA/Tips_and_tricks#Preserve_video_memory_after_suspend)
 
 you can also just disable sleeping using nvidia
 ```
