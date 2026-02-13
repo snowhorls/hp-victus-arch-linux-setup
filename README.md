@@ -29,9 +29,9 @@ dwmblocks-async looks for the scripts in **~/.local/bar** and
 the source directory is also meant to go in **~/.local/** but can go anywhere
 
 ## auto script/untested
-running **setup.sh** automates this installing process for the [**HP-Victus**](#SetupforHp-VictusLaptop) but is untested currently
+running **setup.sh** automates this installing process for the [**HP-Victus**](#Setup-for-Hp-Victus-Laptop) but is untested currently
 
-# Setup for Hp-Victus Laptop
+# Setup-for-Hp-Victus-Laptop
 
 * Nvidia problems with sleeping
 
