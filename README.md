@@ -1,5 +1,5 @@
 # Arch linux Setup
-[1](#installing-all-packages)
+#installing-all-packages
 [2](#making-each-program)
 uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 ```
