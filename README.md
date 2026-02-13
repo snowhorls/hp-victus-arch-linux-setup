@@ -1,6 +1,6 @@
 # Arch linux Setup
-[1](installing-all-packages)
-[2]
+[1](#installing-all-packages)
+[2](##making-each-program)
 uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 ```
 /etc/pacman.conf
@@ -23,6 +23,7 @@ all the suckless software is prepatched and preconfigured as minimally as posibl
 
 ## making-each-program
 | dwm | st| dmenu | dwmblocks-async |
+| --- | --- | --- | --- |
 ```
 sudo make install
 ```
