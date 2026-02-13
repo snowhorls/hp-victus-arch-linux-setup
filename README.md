@@ -8,9 +8,19 @@ installs all the packages <br>
 
 # Suckless Software
 all the suckless software is prepatched and preconfigured and has to be made using
-```sh
+```
 sudo make install
 ```
+
+## patch list
+### dwm
+- fullgaps
+- statuscmd
+### st
+- alpha
+- scrollback
+## dmenu
+- center
 
 # Setup for Hp-Victus
 
