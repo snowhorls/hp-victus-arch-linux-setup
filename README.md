@@ -8,6 +8,7 @@ uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 # installation
 ```
 git clone https://github.com/snowhorls
+cd  snowhorls
 ```
 
 [installing-all-packages](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Install_packages_from_a_list)
