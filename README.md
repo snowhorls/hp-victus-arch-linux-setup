@@ -5,7 +5,12 @@ uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 /etc/pacman.conf
 ```
 
-# [installing-all-packages](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Install_packages_from_a_list)
+# installation
+```
+git clone https://github.com/snowhorls
+```
+
+[installing-all-packages](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks#Install_packages_from_a_list)
 ```
 pacman -S --needed - < pkglist.txt
 ``` 
