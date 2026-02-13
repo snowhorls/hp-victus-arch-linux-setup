@@ -17,7 +17,7 @@ sudo make install
 | # dwm | # st | # dmenu |
 | --- | --- | --- |
 | fillgaps | alpha | center |
-| statuscmd | scrollback |
+| statuscmd | scrollback
 
 # Setup for Hp-Victus
 
