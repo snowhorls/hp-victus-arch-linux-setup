@@ -1,6 +1,10 @@
 # Arch linux Setup
-#installing-all-packages
-[2](#making-each-program)
+[installation](#installing-all-packages)
+[making](#making-each-program)
+[file locations](#file-locations)
+
+<br>
+
 uncomment the [multilib](https://wiki.archlinux.org/title/Multilib) section in
 ```
 /etc/pacman.conf
@@ -28,7 +32,7 @@ all the suckless software is prepatched and preconfigured as minimally as posibl
 sudo make install
 ```
 
-## File locations
+## file-locations
 dwmblocks-async looks for the scripts in **~/.local/bar** and
 <br>
 the source directory is also meant to go in **~/.local/** but can go anywhere
