@@ -33,7 +33,7 @@ running **setup.sh** automates this installing process for the [**HP-Victus**](#
 
 # Setup-for-Hp-Victus-Laptop
 
-* Nvidia problems with sleeping
+## Nvidia problems with sleeping
 
 Nvidia has issues with laptop sleeping on some models which can be fixed with putting the following <br>
 ```
