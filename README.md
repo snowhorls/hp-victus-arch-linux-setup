@@ -39,7 +39,7 @@ dwmblocks-async looks for the scripts in **~/.local/bar** and
 <br>
 the source directory is also meant to go in **~/.local/** but can go anywhere
 ```
-mv source bar .local/
+mv source bar ~/.local/
 ```
 
 # remapping esc and caps
