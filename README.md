@@ -1,6 +1,6 @@
 # Arch linux Setup
-[installation](#installing-all-packages)
-[making](#making-each-program)
+[installation](#installing-all-packages)<br>
+[making](#making-each-program)<br>
 [file locations](#file-locations)
 
 <br>
