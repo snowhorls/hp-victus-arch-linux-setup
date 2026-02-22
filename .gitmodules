@@ -1,0 +1,9 @@
+[submodule "source/dwm"]
+	path = source/dwm
+	url = https://github.com/snowhorls/dwm
+[submodule "source/st"]
+	path = source/st
+	url = https://github.com/snowhorls/st
+[submodule "source/dwmblocks-async"]
+	path = source/dwmblocks-async
+	url = https://github.com/snowhorls/dwmblocks-async
