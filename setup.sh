@@ -23,5 +23,5 @@ cd ~/.local/source/dwmblocks-async
 make install
 
 # fix nvidia sleep not working
-cat "options nvidia NVreg_PreserveVideoMemoryAllocations=1" >> /etc/default/grub
-cat "options nvidia NVreg_TemporaryFilePath=/var/tmp" >> /etc/default/grub
+echo "options nvidia NVreg_PreserveVideoMemoryAllocations=1" >> /etc/default/grub
+echo "options nvidia NVreg_TemporaryFilePath=/var/tmp" >> /etc/default/grub
